@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwarrior27&label=Profile%20views&color=0e75b6&style=flat" alt="yashwarrior27" /> </p>
 
-- 🌱 I’m currently working **Web3 projects**
+- 🌱 I’m currently working on **Web3 projects**
 
 - 💬 Ask me about **JAVASCRIPT, REACT, LARAVEL , MYSQL , WEB3 , DSA**
 
