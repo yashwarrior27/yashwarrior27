@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Course**
 
-- 💬 Ask me about **JAVASCRIPT, REACT, MERN, PHP, MYSQL**
+- 💬 Ask me about **JAVASCRIPT, REACT, LARAVEL , MYSQL , WEB3 , DSA**
 
 - 📫 How to reach me **yash.aga.27@gmail.com**
 
